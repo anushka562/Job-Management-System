@@ -2,7 +2,7 @@
 
 # # Hire-ME
 
-###  DBMS Mini-project: Recruitment Management System.💫✨
+###  Job Management System.💫✨
 
 
 # Features
